@@ -1,0 +1,3 @@
+PyTelegramBotAPI
+sqlite3
+threading
